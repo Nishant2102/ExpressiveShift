@@ -112,6 +112,20 @@ ExpressiveShift/
 
 └── requirements.txt        # List of Python dependencies
 
+
+
+---
+
+## 🤝 Contribution
+
+Feel free to open an issue or submit a pull request if you have suggestions for improvements, bug fixes, or new features.
+
+---
+
+## 📄 License
+
+This project is open-source and available under the **MIT License**. For more information, see the `LICENSE` file.
+
 ---
 
 **Note:** The CelebA dataset is not included in this repository. You will need to download and configure it separately to run the notebook.
