@@ -92,7 +92,7 @@ To run the Jupyter notebook and replicate the results, you need the following de
 
 ---
 
-## 📂 Repository Structure\
+## 📂 Repository Structure
 
 ExpressiveShift/
 
